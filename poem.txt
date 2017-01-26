@@ -6,7 +6,7 @@ text within repo,
 Repo,
 Repo,
 This is
-a Repo...
+a Repo.......
 
 Do you want to commit to this repo?
 I don't know?
